@@ -1,0 +1,38 @@
+
+*{
+    font-family: sans-serif;
+    color:#fff;
+}
+body{
+    background-color:#002050;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.separador{
+    word-spacing: 15px;
+    letter-spacing: 15px;
+}
+footer ul li a{
+    color:violet;
+    font-size: 32px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.fondito{
+    background-image: url(https://st1.uvnimg.com/dims4/default/447936a/2147483647/thumbnail/400x225/quality/75/?url=https%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fassets%2Fvixes%2Fbtg%2Ftech.batanga.com%2Ffiles%2FFondos-para-paginas-web.jpg);
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.centrear{
+    text-align: center;
+    text-decoration: overline;
+    background-image: url(https://thumbs.dreamstime.com/b/fondos-de-la-pared-16268126.jpg);
+    background-repeat: no-repeat;
+
+
+}
