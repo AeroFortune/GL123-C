@@ -1,0 +1,11 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(248, 194, 174);
+}
+
+li{
+    list-style-type:circle;
+}
